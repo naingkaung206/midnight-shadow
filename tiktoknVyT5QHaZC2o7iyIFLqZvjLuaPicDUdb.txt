@@ -1,0 +1,3 @@
+Privacy Policy
+ Midnight Shadow Uploader is a private tool used solely by the owner of the "Midnight Shadow" YouTube channel to upload their own videos via the YouTube Data API.
+ With your consent, the app uses the youtube.upload scope to upload videos to your own channel. No data is collected, stored, or shared with any third party. OAuth tokens are stored only on the owner's private server.
